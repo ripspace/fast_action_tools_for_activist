@@ -1,2 +1,3 @@
-# fast_action_tools_for_activist
-A guide and digital tools for ativists
+# fast_action_tools_for_activists
+A guide and digital tools for activists
+A brief collection of solutions to privacy for those involved in activist work.
